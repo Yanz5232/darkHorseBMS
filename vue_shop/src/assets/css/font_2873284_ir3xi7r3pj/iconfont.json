@@ -1,0 +1,23 @@
+{
+  "id": "2873284",
+  "name": "vue项目一",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24035284",
+      "name": "学生",
+      "font_class": "xuesheng",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "24365615",
+      "name": "沙滩_背包",
+      "font_class": "shatan_beibao",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    }
+  ]
+}
